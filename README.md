@@ -1,3 +1,4 @@
 # my-first-github-page
 
-Here's some text
+This is my first Biography Webpage.
+You can directly move on to a section you want by click the section on the header.
